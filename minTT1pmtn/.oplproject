@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="true" name="T1P1">
+			<ref name="minTT1pmtn.ops" type="setting">
+			</ref>
+			<ref name="TIP1.dat" type="data">
+			</ref>
+			<ref name="T1P1.mod" type="model">
+			</ref>
+		</config>
+		<config category="opl" default="false" name="P2">
+			<ref name="P2.mod" type="model">
+			</ref>
+			<ref name="minTT1pmtn.ops" type="setting">
+			</ref>
+			<ref name="TIP1.dat" type="data">
+			</ref>
+		</config>
+		<config category="opl" default="false" name="TR">
+			<ref name="TR.mod" type="model">
+			</ref>
+			<ref name="minTT1pmtn.ops" type="setting">
+			</ref>
+			<ref name="TIP1.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
