@@ -25,6 +25,18 @@
 			<ref name="TIP1.dat" type="data">
 			</ref>
 		</config>
+		<config category="opl" default="false" name="Bouma_BLP1">
+			<ref name="Bouma_BLP1.mod" type="model">
+			</ref>
+			<ref name="Bouma_BLP1.dat" type="data">
+			</ref>
+		</config>
+		<config category="opl" default="false" name="Bouma_ILP1">
+			<ref name="Bouma_ILP1.mod" type="model">
+			</ref>
+			<ref name="Bouma_BLP1.dat" type="data">
+			</ref>
+		</config>
 	</configs>
 	
 </project>

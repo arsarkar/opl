@@ -22,9 +22,9 @@ dvar int+ X[jobIndices][horizon] in 0..1;
 execute
 {
 	var minR = 9999;
-	for(var r in R){
-		if(r<minR){
-			minR = r;		
+	for(var j in jobIndices){
+		if(R[j]<minR){
+			minR = R[j];		
 		}	
 	}
 	Tmin = minR + 1;
@@ -32,12 +32,12 @@ execute
 	for(var j in jobIndices){
 		if(R[j] > D[j]){
 			if(R[j]>maxJ){
-				maxJ = 	R[j];	
+				maxJ = R[j];	
 			}			
 		}
 		else{
 			if(D[j]>maxJ){
-				maxJ = 	D[j];	
+				maxJ = D[j];	
 			}	
 		}	
 	}

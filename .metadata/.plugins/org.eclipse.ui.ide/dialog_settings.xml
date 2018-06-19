@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="" key="IloExternalProjectImportWizard.STORE_ROOT_ARCHIVE"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="C:/Users/sarkara1/opl" key="IloExternalProjectImportWizard.STORE_ROOT_DIRECTORY"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="ilog.odms.ide.samples.opl.wizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

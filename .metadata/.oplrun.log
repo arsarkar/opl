@@ -1,0 +1,1068 @@
+!SESSION 2017-02-14 13:05:40.719 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-02-14 13:05:40.719
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-02-14 13:05:40.837
+!MESSAGE Run TR in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-04 18:08:08.375 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-04 18:08:08.375
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-04 18:08:08.444
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-04 18:26:11.399 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-04 18:26:11.399
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-04 18:26:11.497
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-04 18:26:42.639 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-04 18:26:42.641
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-04 18:26:42.789
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-04 18:28:29.493 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-04 18:28:29.493
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-04 18:28:29.656
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-04 18:35:32.767 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-04 18:35:32.767
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-04 18:35:32.806
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-04 19:00:34.764 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-04 19:00:34.764
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-04 19:00:34.957
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 13:07:43.762 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:07:43.762
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:07:43.978
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 13:32:41.223 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:32:41.224
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:32:41.466
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-03-20 13:32:41.620
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing failed.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-03-20 13:33:02.452 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:33:02.452
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:33:02.610
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 13:33:20.752 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:33:20.752
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:33:20.884
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 13:33:55.181 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:33:55.181
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:33:55.312
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 13:40:12.097 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:40:12.098
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:40:12.236
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 13:41:15.527 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:41:15.527
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:41:15.683
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 13:42:23.094 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:42:23.094
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:42:23.206
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 13:50:06.276 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 13:50:06.277
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 13:50:06.474
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 14:33:22.325 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:33:22.326
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:33:22.397
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 14:34:04.066 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:34:04.067
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:34:04.228
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 14:36:41.145 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:36:41.145
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:36:41.269
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-03-20 14:36:41.327
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-03-20 14:36:41.328
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-03-20 14:37:04.875 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:37:04.875
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:37:05.103
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-03-20 14:37:05.144
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-03-20 14:37:05.145
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-03-20 14:38:14.482 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:38:14.482
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:38:14.651
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 14:38:51.418 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:38:51.418
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:38:51.499
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-03-20 14:38:51.541
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-03-20 14:38:51.542
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-03-20 14:40:07.105 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:40:07.105
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:40:07.310
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 14:41:55.790 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:41:55.790
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:41:55.954
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 14:50:06.567 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 14:50:06.567
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 14:50:06.697
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 22:11:28.797 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:11:28.797
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:11:29.073
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 22:19:04.993 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:19:04.994
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:19:05.167
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 22:25:04.127 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:25:04.127
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:25:04.193
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-03-20 22:25:04.354
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing failed.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-03-20 22:25:23.905 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:25:23.905
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:25:23.938
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 22:43:42.137 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:43:42.137
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:43:42.277
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 22:47:38.245 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:47:38.245
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:47:38.411
+!MESSAGE Run Bouma_ILP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 22:48:24.731 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:48:24.731
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:48:24.859
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 22:52:29.187 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:52:29.187
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:52:29.339
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 22:57:12.177 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 22:57:12.177
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 22:57:12.350
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:05:38.735 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:05:38.735
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:05:38.779
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:06:42.494 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:06:42.494
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:06:42.757
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:06:56.544 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:06:56.544
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:06:56.792
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:07:43.693 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:07:43.693
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:07:43.867
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-03-20 23:08:49.687
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing aborted.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-03-20 23:08:53.994 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:08:53.994
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:08:54.074
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-03-20 23:09:35.216
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing aborted.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-03-20 23:10:06.252 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:10:06.252
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:10:06.390
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:10:27.113 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:10:27.114
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:10:27.324
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:10:37.419 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:10:37.419
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:10:37.541
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:10:46.469 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:10:46.469
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:10:46.575
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-03-20 23:11:45.770
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Processing aborted.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-03-20 23:13:11.645 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:13:11.646
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:13:11.759
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:14:58.793 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:14:58.794
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:14:59.020
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:15:34.985 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:15:34.985
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:15:35.061
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-20 23:28:53.037 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-20 23:28:53.037
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-20 23:28:53.095
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-22 15:15:35.011 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-22 15:15:35.011
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-22 15:15:35.154
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-22 15:17:22.085 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-22 15:17:22.085
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-22 15:17:22.312
+!MESSAGE Run Bouma_ILP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-03-22 15:26:32.116 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-03-22 15:26:32.116
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-03-22 15:26:32.166
+!MESSAGE Run Bouma_ILP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-06-16 15:19:58.195 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-06-16 15:19:58.195
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 15:19:58.609
+!MESSAGE Run Bouma_ILP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-06-16 15:20:43.792 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-06-16 15:20:43.792
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 15:20:43.988
+!MESSAGE Run Bouma_ILP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-06-16 15:20:51.376 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-06-16 15:20:51.376
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 15:20:51.410
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-06-16 15:39:27.907 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-06-16 15:39:27.907
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 15:39:28.061
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2017-06-16 16:03:42.855 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-06-16 16:03:42.855
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-06-16 16:03:43.010
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2018-04-05 13:06:47.739 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2018-04-05 13:06:47.739
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-04-05 13:06:48.392
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2018-04-05 13:07:38.279 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2018-04-05 13:07:38.280
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-04-05 13:07:38.408
+!MESSAGE Run Bouma_ILP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2018-04-05 13:08:20.793 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2018-04-05 13:08:20.794
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-04-05 13:08:21.006
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2018-04-05 13:08:37.995 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2018-04-05 13:08:37.995
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-04-05 13:08:38.209
+!MESSAGE Run P2 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2018-04-05 13:08:49.403 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2018-04-05 13:08:49.403
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-04-05 13:08:49.629
+!MESSAGE Run T1P1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2018-06-15 19:04:42.118 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2018-06-15 19:04:42.118
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-06-15 19:04:42.420
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
+!SESSION 2018-06-15 19:05:46.094 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 7 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -clean -nl en_US -configuration C:\Users\sarkara1\git\opl\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2018-06-15 19:05:46.094
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2018-06-15 19:05:46.199
+!MESSAGE Run Bouma_BLP1 in C:/Users/sarkara1/git/opl/minTT1pmtn
